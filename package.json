@@ -67,7 +67,7 @@
     "test": "tests"
   },
   "engines": {
-    "node": "8.* || >= 10.*"
+    "node": "6.* || 8.* || >= 10.*"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
